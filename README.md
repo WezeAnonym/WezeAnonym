@@ -14,5 +14,5 @@
 ## 🐍 Contributions
 ![Snake animation](https://github.com/WezeAnonym/WezeAnonym/blob/output/github-contribution-grid-snake-dark.svg)
 
-## 🎵 Currently Playing
-[![Currently Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=wotodn21znbrpuxvj3pcxgv7d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
+<!-- ## 🎵 Currently Playing
+[![Currently Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=wotodn21znbrpuxvj3pcxgv7d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
