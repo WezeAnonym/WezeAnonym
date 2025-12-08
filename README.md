@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=cs,css,django,docker,dotnet,figma,git,html,javascript,mysql,photoshop,php,postman,python,react,sass,typescript,vue&theme=dark)](https://skillicons.dev) <!-- kotlin,java,spring,nodejs,-->
+[![My Skills](https://skillicons.dev/icons?i=cs,css,django,docker,dotnet,figma,git,github,html,javascript,mysql,photoshop,ai,php,postman,python,react,sass,typescript,vue,nuxtjs,nextjs,rider,visualstudio,vscode,powershell,websocket,api&theme=dark)](https://skillicons.dev) <!-- kotlin,java,spring,nodejs,-->
 
 ---
 
