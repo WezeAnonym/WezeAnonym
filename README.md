@@ -2,7 +2,7 @@
 
 | 🔥 Streaks | 📊 Most Used Languages |
 |------------|-------------------------|
-| ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=WezeAnonym&theme=dark&hide_border=true) | ![Most Used Languages](https://skillicons.dev/icons?i=git,mysql,sass,cs,javascript,html,css,react,vue&theme=dark) |
+| ![Streaks](https://streak-stats.demolab.com/?user=WezeAnonym&theme=dark&hide_border=true) | ![Most Used Languages](https://skillicons.dev/icons?i=git,mysql,sass,cs,javascript,html,css,react,vue&theme=dark) |
 
 
 ---
