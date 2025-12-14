@@ -2,7 +2,7 @@
 
 | Streaks | Tech Stack |
 |--------|-----------|
-| ![Streaks](https://streak-stats.demolab.com/?user=WezeAnonym&theme=dark&hide_border=true&cache_seconds=86400) | ![Most Used Languages](https://skillicons.dev/icons?i=git,mysql,sass,cs,javascript,html,css,react,vue&theme=dark) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=WezeAnonym&theme=dark&border_radius=5)](https://git.io/streak-stats) | ![Most Used Languages](https://skillicons.dev/icons?i=git,mysql,sass,cs,javascript,html,css,react,vue&theme=dark) |
 
 
 ---
